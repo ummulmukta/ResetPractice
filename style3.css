@@ -13,7 +13,7 @@ section{
 
 
 #left{
-    width:33%;
+    width:33.3%;
     float: left;
     color: white;
     background-color:#666;
@@ -21,7 +21,7 @@ section{
 }
 #right{
     background-color:#666 ;
-    width: 33%;
+    width: 33.3%;
     float: left;
     color:white;
 }
@@ -54,7 +54,7 @@ section{
 }
 #middle{
     background-color:#888 ;
-    width:33%;
+    width:33.4%;
     float: left;
     color: white;
 }
